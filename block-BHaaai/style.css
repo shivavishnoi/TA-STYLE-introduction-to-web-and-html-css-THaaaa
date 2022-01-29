@@ -1,0 +1,28 @@
+body{
+  background-color: #180557;
+  color: white;
+  padding: 10px;
+}
+
+h2{
+  color: green;
+}
+
+div{
+  padding: 10px;
+}
+
+h4{
+  cursor: pointer;
+}
+
+span{
+  display: flex;
+  justify-content: center;
+}
+span h4{
+  margin-right: 25px;
+}
+img{
+  text-align: center;
+}
